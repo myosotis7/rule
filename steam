@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,steam-api.com
+  - DOMAIN-SUFFIX,steamserver.net
